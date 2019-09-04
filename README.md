@@ -1,4 +1,4 @@
-# Neural-Netowork-From-Scratch
+# Neural-Network-From-Scratch
 This repository contains code of neural network from scratch.
 
 # NeuralNetwork.py
